@@ -10,7 +10,7 @@ MTProxy
 wget -N --no-check-certificate https://raw.githubusercontent.com/crayonxiaoxing/onekeyProxy/master/proxy/mt_proxy.sh && chmod +x mt_proxy.sh && ./mt_proxy.sh
 ```
 
-Socks5 Install
+Socks5 
 ---
 ```
 yum -y install wget curl
